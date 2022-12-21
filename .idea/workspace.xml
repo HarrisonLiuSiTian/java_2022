@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0190fce-e505-432a-8acd-bb0aa06263d7" name="变更" comment="2022年测试" />
+    <list default="true" id="a0190fce-e505-432a-8acd-bb0aa06263d7" name="变更" comment="2022年测试">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gz/cn/HelloPerson.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,20 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.HelloWorldTest.helloWorldTest">
+  <component name="RunManager" selected="应用程序.HelloPerson">
+    <configuration name="HelloPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gz.cn.HelloPerson" />
+      <module name="java_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gz.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gz.cn.HelloWorld" />
       <module name="java_2022" />
@@ -74,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HelloPerson" />
         <item itemvalue="JUnit.HelloWorldTest.helloWorldTest" />
         <item itemvalue="应用程序.HelloWorld" />
       </list>
@@ -87,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671582516693</updated>
-      <workItem from="1671582518799" duration="2609000" />
+      <workItem from="1671582518799" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="2022年测试">
       <created>1671583555044</created>
@@ -117,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671584630574</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2022年测试">
+      <created>1671585133624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671585133624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2022年测试">
+      <created>1671585141971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671585141971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
